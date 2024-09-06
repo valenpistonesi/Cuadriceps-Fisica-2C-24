@@ -2,8 +2,8 @@
 
 Instalaciones: 
 	Visual Studio Code:
-		*Phython: necesario para programar en phython
-		*Jupiter: permite programar como en collab y usar MV
+		*Python: necesario para programar en python
+		*Jupyter: permite programar como en Colab y usar MV
 	Maquina Virtual
 		*pandas
 		*mediapipe
